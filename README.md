@@ -1,4 +1,4 @@
-<h1>Login with Firebase using react </>
+<h1>Login with Firebase (React) </>
 
 
 # Getting Started with Create React App
